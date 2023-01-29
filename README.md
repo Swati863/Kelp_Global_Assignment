@@ -1,7 +1,13 @@
 
 # Welcome to our Banking Application
 
-### To start the Application -In the terminal run command    ***npm run start***    or    ***node index.js***
+### To start the Application -
+
+
+- Install the node modules with the command ***npm install***
+
+
+- In the terminal run command    ***npm run start***    or    ***node index.js***
 
 Step-1 => Kindly select the operation you wish to perform (use the up and down arrow key to select and enter).
 
