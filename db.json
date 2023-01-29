@@ -1,1 +1,8 @@
-{"accounts":[{"account_number":"ACC001","account_name":"KELP","balance":0},{"account_number":"ACC002","account_name":"FVTPL","balance":8000}]}
+{
+  "accounts": [
+    { "account_number": "ACC001", "account_name": "KELP", "balance": 0 },
+    { "account_number": "ACC002", "account_name": "FVTPL", "balance": 8000 },
+    { "account_number": "ACC003", "account_name": "ABCD", "balance": 0 },
+    { "account_number": "ACC004", "account_name": "OPOPO", "balance": 1000 }
+  ]
+}
